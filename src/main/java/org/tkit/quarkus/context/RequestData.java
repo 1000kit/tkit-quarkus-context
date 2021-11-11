@@ -2,9 +2,6 @@ package org.tkit.quarkus.context;
 
 import java.io.Serializable;
 
-/**
- * @author msomora
- */
 public class RequestData implements Serializable {
     
     private String principal;
