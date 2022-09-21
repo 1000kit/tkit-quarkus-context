@@ -52,7 +52,7 @@
         <quarkus.version>1.7.2.Final</quarkus.version>
         <slf4j-api.version>1.7.30</slf4j-api.version>
         <semver-release-plugin.version>0.6.0</semver-release-plugin.version>
-        <compiler-plugin.version>3.8.1</compiler-plugin.version>
+        <compiler-plugin.version>3.10.1</compiler-plugin.version>
         <jandex-plugin.version>1.0.7</jandex-plugin.version>
     </properties>
 
